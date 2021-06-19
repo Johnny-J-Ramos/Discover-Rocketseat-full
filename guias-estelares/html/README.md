@@ -14,7 +14,7 @@
 - [x] hidden
 - [x] id
 - [x] style
-- [x]tabindex => Seguirá em ordem de lista para baixo. 1, 2 ,3
+- [x] tabindex => Seguirá em ordem de lista para baixo. 1, 2 ,3
 - [x] title => Definir um titulo
 
 ### Alinhamento de tags
@@ -22,3 +22,13 @@
 - [x] Fluxo
 - [x] Hierarquia
 - [x] Posicionamento dos elementos
+
+### Conteúdo do texto e caracteres reservados
+
+- [x] </br> Quebrar linha
+- [x] &nbsp; Para dar espaços
+- [x] &lt; caractere especial <
+- [x] &gt; caractere especial >
+- [x] &amp; caractere especial &
+- [x] &quot; caractere especial "
+- [x] &apos; caractere especial '
