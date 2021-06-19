@@ -25,10 +25,18 @@
 
 ### Conteúdo do texto e caracteres reservados
 
-- [x] </br> Quebrar linha
+- [x] "</br>" Quebrar linha
 - [x] &nbsp; Para dar espaços
 - [x] &lt; caractere especial <
 - [x] &gt; caractere especial >
 - [x] &amp; caractere especial &
 - [x] &quot; caractere especial "
 - [x] &apos; caractere especial '
+
+### Cabeçalhos e Parágrafos
+
+- [x] Titulos e paragrafor organizado em semantica
+- [x] Listas (Ordenadas e não Ordenadas) li\*(a quatidade de linhas e irá aparecer)
+- [x] Citações (<blackquote>, <cite>, <q>)
+- [x] Abreviações (<abbr>)
+- [x] Detalhes de Contato (<address>)
