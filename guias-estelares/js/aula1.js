@@ -1,5 +1,3 @@
-const name = 'Johnny';
-const age = 26;
-const profession = 'Estagiário em Suporte';
-
-console.log(name, age, profession);
+document.getElementById('selecionarTudo').onclick = function () {
+  document.getElementById('senhaUsuario').select();
+};
