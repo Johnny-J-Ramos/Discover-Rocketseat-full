@@ -37,6 +37,6 @@
 
 - [x] Titulos e paragrafor organizado em semantica
 - [x] Listas (Ordenadas e não Ordenadas) li\*(a quatidade de linhas e irá aparecer)
-- [x] Citações (<blackquote>, <cite>, <q>)
-- [x] Abreviações (<abbr>)
-- [x] Detalhes de Contato (<address>)
+- [x] Citações (<.blackquote.>, <cite.>, <q.>)
+- [x] Abreviações (<abbr.>)
+- [x] Detalhes de Contato (<address.>)
